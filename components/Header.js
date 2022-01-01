@@ -23,7 +23,7 @@ function Header() {
             <Avatar />
           </div>
 
-          <h1 className="text-3xl">Welcome to the PAPAREACT Metaverse</h1>
+          <h1 className="text-3xl">Welcome to the Metaverse</h1>
 
           <h2 className="text-5xl font-bold truncate">{user.getUsername()}</h2>
           
