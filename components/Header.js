@@ -1,4 +1,4 @@
-import Image from "next/Image"
+import Image from "next/image"
 import { useMoralis } from "react-moralis"
 import Avatar from "./Avatar"
 import ChangeUsername from "./ChangeUsername"
